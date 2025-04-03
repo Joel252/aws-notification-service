@@ -1,0 +1,22 @@
+{
+  "name": "aws-notification-service",
+  "version": "1.0.0",
+  "description": "Service on AWS to send messages to different channels (email, SMS, push notifications)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joel252/aws-notification-service.git"
+  },
+  "author": "Joel Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joel252/aws-notification-service/issues"
+  },
+  "homepage": "https://github.com/Joel252/aws-notification-service#readme",
+  "dependencies": {
+    "@aws-sdk/client-sns": "^3.777.0"
+  }
+}
