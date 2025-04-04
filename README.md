@@ -17,10 +17,7 @@ This AWS-based notification service allows sending messages to multiple channels
 
 ## Setup AWS services
 
-Follow the steps in [Setup Services Manually](/docs/Setup%20services%20manually.md) to configure the required AWS services.
-
-> [!note]
-> To send messages to multiple users (subscribers), refer to the [Use Topics](/docs/4.%20USE%20TOPICS.md) documentation.
+Follow the steps in [Setup Services Manually](/docs/setup%20services%20manually.md) to configure the required AWS services.
 
 ## Environment variables
 
