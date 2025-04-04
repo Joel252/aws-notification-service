@@ -1,0 +1,7 @@
+{
+    "sms": "Hola {name}, su cita es el {date} a las {time}.",
+    "email": {
+        "subject": "Recordatorio de cita médica",
+        "body": "Estimado {name},\n\nle recordamos su cita médica programada para el {date} a las {time}."
+    }
+}

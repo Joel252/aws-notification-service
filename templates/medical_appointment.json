@@ -1,0 +1,7 @@
+{
+    "sms": "Hello {name}, your appointment is on {date} at {time}.",
+    "email": {
+        "subject": "Medical Appointment Reminder",
+        "body": "Dear {name},\n\nwe remind you of your medical appointment scheduled for {date} at {time}."
+    }
+}
